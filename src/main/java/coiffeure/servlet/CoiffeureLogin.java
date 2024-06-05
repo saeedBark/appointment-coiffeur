@@ -15,7 +15,7 @@ import db.DBConnect;
 import entity.Employe;
 
 
-@WebServlet("/coiffeureLogin")
+@WebServlet("/clientLogin")
 public class CoiffeureLogin extends HttpServlet{
 
 	@Override
